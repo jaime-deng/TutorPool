@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="tutorpool-logo.png" alt="Logo" width="80" height="80">
+    <img src="newLogo_TutorPool.png" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center">TutorPool</h1>
